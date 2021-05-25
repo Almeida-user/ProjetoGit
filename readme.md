@@ -1,0 +1,1 @@
+Esse Projeto ensina voc~e a usar o Git
